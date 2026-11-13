@@ -1,0 +1,34 @@
+[h1]ParaTraits: Sims-style traits for your Paras[/h1]
+14 new traits you can give any Para, for more individuality. Each one changes what they like to do, how they feel about it, and adds little spontaneous quirks.
+
+[b]Just subscribe, no install steps.[/b] It is a normal content mod.
+
+[h2]How to use[/h2]
+Open a Para's personality in the Para creator. The [b]Lifestyles[/b] section is now called [b]Lifestyle & Traits[/b] and has a switch for each new trait. Turn on as many as you like (around 3 feels most Sims-like).
+
+[h2]The traits[/h2]
+[list]
+[*][b]Foodie[/b]: cooks more often, savours meals (Happy), feels inspired cooking, learns Cooking faster.
+[*][b]Glutton[/b]: gets hungry faster, snacks for no reason, happy after eating.
+[*][b]Gym Rat[/b]: works out often, flexes and does push-ups out of nowhere, post-workout high, trains faster, less TV.
+[*][b]Couch Potato[/b]: loves TV and zoning out, finds exercise uncomfortable and avoids it.
+[*][b]Lazy[/b]: takes random naps, avoids chores and exercise, hates chores, tires out faster.
+[*][b]Music Lover[/b]: puts music on, plays piano and guitar and dances more, happy after music, learns Piano and Guitar faster.
+[*][b]Artsy[/b]: paints and doodles more, gets a creative spark (Inspired), learns Painting faster.
+[*][b]Techie[/b]: codes, designs, games and scrolls more, gets in the zone, learns Programming faster.
+[*][b]Stargazer[/b]: heads to the telescope at night, gets starstruck (Inspired), learns Astronomy faster.
+[*][b]Nature Lover[/b]: digs in the dirt, smells the flowers, takes walks, happy after fresh air.
+[*][b]Romantic[/b]: daydreams about love, feels flirty after kisses, hugs and slow dances.
+[*][b]Hot-Headed[/b]: randomly gets angry now and then, kicks things in frustration.
+[*][b]Social Butterfly[/b]: chats more, starts conversations, happy while in company.
+[*][b]Loner[/b]: chats less, gives themselves mirror pep talks, uncomfortable in groups.
+[/list]
+The new feelings show up by name in each Para's emotion breakdown, e.g. "Savoured a meal".
+
+[h2]Good to know[/h2]
+[list]
+[*]Traits stack with the built-in Vibe, Social and Talent traits.
+[*]Opposite traits (Gym Rat + Couch Potato, Social Butterfly + Loner) can both be on; they will mostly cancel out.
+[*]Townies start without these traits; give them out in the Para creator.
+[*]Made for Early Access 0.1.9b. Remove it any time by unsubscribing; Paras just lose the extra traits.
+[/list]
